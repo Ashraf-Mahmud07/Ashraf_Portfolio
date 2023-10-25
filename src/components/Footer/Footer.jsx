@@ -14,7 +14,7 @@ const Footer = () => {
             Ashraf<span className="text-cyan-600">Dev</span>Droid
           </h4></a>
         </div>
-            <p className="text-gray-400 mb-6">I am Ashraf, Working with MERN Stack Development</p>
+            <p className="text-gray-400 mb-6">I am Ashraf Mahmud, Working with MERN Stack Development</p>
             <div
                 className="flex flex-row  
                   text-left gap-4 flex-wrap items-center"

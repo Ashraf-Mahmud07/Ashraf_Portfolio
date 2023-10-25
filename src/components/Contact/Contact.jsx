@@ -20,7 +20,7 @@ const Contact = () => {
       )
       .then(
         (result) => {
-          Swal.fire("Sent your Message! ❤️");
+          Swal.fire("Sent Your Message! ❤️");
           field.reset();
         },
         (error) => {
