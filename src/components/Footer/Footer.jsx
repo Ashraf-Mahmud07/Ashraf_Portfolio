@@ -44,7 +44,7 @@ const Footer = () => {
           <div>
             <h3 className="text-2xl font-semibold mb-4">Keep in touch</h3>
             <ul className="flex space-x-4">
-              <li><a href="https://www.linkedin.com/in/ashraful-islam-258aa0286/" target='_blank' className="hover:text-gray-400 text-xl"><BsLinkedin /></a></li>
+              <li><a href="https://www.linkedin.com/in/ashraful-islam-04804a283/" target='_blank' className="hover:text-gray-400 text-xl"><BsLinkedin /></a></li>
               <li><a href="https://twitter.com/" target='_blank' className="hover:text-gray-400 text-xl"><FaTwitter /></a></li>
               <li><a href="https://www.facebook.com/ashraf.mahmud.444/" className="hover:text-gray-400 text-xl"><FaFacebook /></a></li>
               <li><a href="https://github.com/Ashraf-Mahmud07" target='_blank' className="hover:text-gray-400 text-xl"><FaGithub /></a></li>

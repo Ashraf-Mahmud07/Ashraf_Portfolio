@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import CountUp from 'react-countup';
 import ScrollTrigger from 'react-scroll-trigger';
-import resume from '../../assets/ashraful islam/Ashraful Islam (2).pdf';
+import resume from '../../assets/ashraful islam/Resume of Ashraf.pdf';
 import aboutImg from "../../assets/images/ashraf_image.png";
 
 const About = () => {
