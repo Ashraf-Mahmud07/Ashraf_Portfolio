@@ -38,7 +38,7 @@ const Hero = () => {
           <a href="#contact"><button className="btn-primary mt-8">Contact Me</button></a>
           
           <div className="mt-8 text-3xl flex items-center md:justify-start justify-center gap-5">
-            <a href="https://www.linkedin.com/in/ashraful-islam-258aa0286/" target='_blank'>
+            <a href="https://www.linkedin.com/in/ashraful-islam-04804a283/" target='_blank'>
               <FaLinkedin className="text-gray-600 hover:text-white cursor-pointer" />
             </a>
             <a href="" target='_blank'><FaGithub className="text-gray-600 hover:text-white cursor-pointer" /></a>
